@@ -1,5 +1,11 @@
+body {
+    margin-left: 55px;
+}
 h1 {
     font-size: 50px;
     text-align: center;
     font-family:'Courier New', Courier, monospace; 
+}
+h2 {
+    font-size: 30px;
 }
