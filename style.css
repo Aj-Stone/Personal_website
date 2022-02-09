@@ -1,5 +1,8 @@
 body {
     margin-left: 55px;
+    margin-right: 55px;
+    background: cadetblue;
+    color:white;
 }
 h1 {
     font-size: 50px;
@@ -8,4 +11,9 @@ h1 {
 }
 h2 {
     font-size: 30px;
+    text-decoration: underline;
+    margin-top:2em;
+}
+p {
+    font-size: large;
 }
