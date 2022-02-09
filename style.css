@@ -17,11 +17,20 @@ h2 {
 p {
     font-size: larger;
 }
-.p-right {
+.p-left {
     margin-right:40%;
 }
-.image-right {
+.image-left {
     margin-right:55px;
     float: left;
     margin-top: 0px;
+}
+.right-side {
+    text-align: right;
+    margin-left:40%
+}
+.image-right {
+    margin-left:55px;
+    float:right;
+    margin-top:0px;
 }
