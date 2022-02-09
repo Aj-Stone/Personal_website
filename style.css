@@ -15,5 +15,13 @@ h2 {
     margin-top:2em;
 }
 p {
-    font-size: large;
+    font-size: larger;
+}
+.p-right {
+    margin-right:40%;
+}
+.image-right {
+    margin-right:55px;
+    float: left;
+    margin-top: 0px;
 }
