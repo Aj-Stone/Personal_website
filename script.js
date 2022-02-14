@@ -1,3 +1,3 @@
-const h2 = document.createElement('h2');
-h2.textContent = "Importance of Ingenuity";
-document.querySelector("body").appendChild(h2);
+const body = document.body;
+const div = document.createElement(div);
+body.append(div);

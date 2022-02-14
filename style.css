@@ -34,3 +34,8 @@ p {
     float:right;
     margin-top:0px;
 }
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
+    margin-top:2em;
+}
